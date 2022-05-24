@@ -1,4 +1,5 @@
 number = int(input("Enter the number : "))
+
 sum = 0
 
 temp = number
